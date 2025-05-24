@@ -10,17 +10,24 @@ Join the FleXercise community today and elevate your fitness experience.
 - **Time Management**: Specify the duration of each exercise to match your cardio.
 - **Sets and Reps**: Set the number of sets and repetitions for each exercise to match your fitness level.
 - **Difficulty**: Set the difficulty of the exercise based on your ease when exercising
+  ![Screenshot 2025-05-24 at 06 36 14](https://github.com/user-attachments/assets/8f3b9a63-5074-4bdf-a65d-0df9beab2c2e)
 ### Create a Program
 - **Personalized Programs**: Create personalized exercise programs by selecting exercises that align with your fitness objectives.
 - **Flexibility**: Easily edit, add, or remove exercises from your program as your fitness journey progresses.
+  ![Screenshot 2025-05-24 at 06 36 21](https://github.com/user-attachments/assets/735fc093-c65e-4991-9dfc-1b47813f72ef)
+
 
 ### Create Sessions
 - **Start Your Session**: Utilize your created programs to kickstart your sporting sessions.
 - **Guided Workouts**: Follow along with clear instructions and timers for each exercise to ensure proper form and maximize results.
+  ![Screenshot 2025-05-24 at 06 37 29](https://github.com/user-attachments/assets/340fcd45-6b02-4f94-abab-c3935e553d66)
+
 
 ### Statistics
 - **Progress Insights**: Track your performance over time with detailed statistics on exercises completed, sets, reps, and duration.
 - **Visual Representation**: View graphical representations of your progress to identify trends and areas for improvement.
+  ![Screenshot 2025-05-24 at 06 36 32](https://github.com/user-attachments/assets/b9bb328a-348b-4c7a-ab8b-c0be74b2bf20)
+
 
 
 ## Compilation and launch
